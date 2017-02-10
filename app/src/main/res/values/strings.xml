@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MDB Member Quiz</string>
+    <string name="name1">name1</string>
+    <string name="name2">name2</string>
+    <string name="name3">name3</string>
+    <string name="name4">name4</string>
+    <string-array name="names_array">
+        <item>@string/name1</item>
+        <item>@string/name2</item>
+        <item>@string/name3</item>
+        <item>@string/name4</item>
+    </string-array>
+</resources>
